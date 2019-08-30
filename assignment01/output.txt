@@ -1,14 +1,3 @@
-TESTS FOR Computer.java:
-Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
-Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 
-Dell, AMD Radion, 16GB Memory, 512GB Solid State Drive, Price: $759.00 
-HP, Intel i7 2.44Ghz, 8GB Memory, 1.5TB Hard Drive, Price: $899.00 
-
-TESTS FOR Computer.java:
-Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
-Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 
-Dell, AMD Radion, 16GB Memory, 512GB Solid State Drive, Price: $759.00 
-HP, Intel i7 2.44Ghz, 8GB Memory, 1.5TB Hard Drive, Price: $899.00 
 
 TESTS FOR Computer.java:
 Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
@@ -74,7 +63,8 @@ false
 true
 false
 false
-Tests sameBirthDate Method/n
+Tests sameBirthDate Method
+
 Tests fistPerson
 false
 false
@@ -100,7 +90,7 @@ false
 false
 false
 false
-Tests hasSameBirthDayAs Method
+Tests hasSameBirthDayAs Method/n
 Tests fisrtPerson
 true
 false
@@ -133,14 +123,14 @@ Apt 5K
 Brooklyn, NY 11230
 secondAddress: 28 Walnut
 Binghamton, NY 13905
-TESTS 
+
 TESTS FOR Person.java:
-Jake 
+Jake
 Landerson
- 567-78-6445 
+567-78-6445
 Date and place of birth: 2000-06-24, Brooklyn,NY,United States
 Adress: 1450 Ave K
- Jersey City, NJ 11230
+Jersey City, NJ 11230
 
 
 TESTS FOR ComputerOwner.java:
@@ -152,3 +142,11 @@ Adress: 1450 Ave K
 Jersey City, NJ 12330
 
 Computers: [Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 , Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 ]
+
+TESTS FOR SimpleDate.java:
+Different year test, expected true
+Actual result: true
+Same Year and Month, different day, expected false
+Actual result: false
+Same year, different months, expected true
+Actual result: true
