@@ -1,0 +1,154 @@
+TESTS FOR Computer.java:
+Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
+Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 
+Dell, AMD Radion, 16GB Memory, 512GB Solid State Drive, Price: $759.00 
+HP, Intel i7 2.44Ghz, 8GB Memory, 1.5TB Hard Drive, Price: $899.00 
+
+TESTS FOR Computer.java:
+Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
+Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 
+Dell, AMD Radion, 16GB Memory, 512GB Solid State Drive, Price: $759.00 
+HP, Intel i7 2.44Ghz, 8GB Memory, 1.5TB Hard Drive, Price: $899.00 
+
+TESTS FOR Computer.java:
+Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 
+Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 
+Dell, AMD Radion, 16GB Memory, 512GB Solid State Drive, Price: $759.00 
+HP, Intel i7 2.44Ghz, 8GB Memory, 1.5TB Hard Drive, Price: $899.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-05-25, Brooklyn,NY,United States
+Date and place of birth: 1985-05-25, Moscow,Russia
+Date and place of birth: 2000-12-23, Binghamton,NY,United States
+Date and place of birth: 2000-12-23, Los Angeles,CA,United States
+Date and place of birth: 1988-06-03, Seoul,South Korea
+Tests olderThan Method
+Tests olderThan Method for firstPerson: 
+false
+true
+true
+false
+Tests olderThan Method for secondPerson: 
+true
+true
+true
+true
+Tests olderThan Method for thirdPerson: 
+false
+false
+false
+false
+Tests olderThan Method for fourthPerson: 
+false
+false
+false
+false
+Tests olderThan Method for fifthPerson: 
+true
+false
+true
+true
+Tests youngerThan Method
+Tests youngerThan Method for firstPerson: 
+true
+false
+false
+true
+Tests youngerThan Method for secondPerson: 
+false
+false
+false
+false
+Tests youngerThan Method for thirdPerson
+true
+true
+false
+true
+Tests youngerThan Method for fourthPerson
+true
+true
+false
+true
+Tests youngerThan Methond for fifthPerson
+false
+true
+false
+false
+Tests sameBirthDate Method/n
+Tests fistPerson
+false
+false
+false
+false
+Tests secondPerson
+false
+false
+false
+false
+Tests thirdPerson
+false
+false
+true
+false
+Tests fourthPerson
+false
+false
+true
+false
+Tests fifthPerson
+false
+false
+false
+false
+Tests hasSameBirthDayAs Method
+Tests fisrtPerson
+true
+false
+false
+false
+Tests secondPerson
+true
+false
+false
+false
+Tests thirdPerson
+false
+false
+true
+false
+Tests fourthPerson
+false
+false
+true
+false
+Tests fifthPerson
+false
+false
+false
+false
+
+TESTS FOR StreetUSAddress.java:
+firstAdress: 1620 Ocean Ave
+Apt 5K
+Brooklyn, NY 11230
+secondAddress: 28 Walnut
+Binghamton, NY 13905
+TESTS 
+TESTS FOR Person.java:
+Jake 
+Landerson
+ 567-78-6445 
+Date and place of birth: 2000-06-24, Brooklyn,NY,United States
+Adress: 1450 Ave K
+ Jersey City, NJ 11230
+
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Tom
+Mott
+563-67-6445
+Date and place of birth: 1954-08-14, Bronx,NY,United States
+Adress: 1450 Ave K
+Jersey City, NJ 12330
+
+Computers: [Razer, Intel i5 3.64 Ghz, 32GB Memory, 2.0TB Solid State Drive, Price: $1599.00 , Samsung, Intel i7 3.5 Ghz, 8GB Memory, 256GB Hard Drive, Price: $399.00 ]
